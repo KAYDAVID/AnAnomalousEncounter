@@ -1,0 +1,4 @@
+,StartingRoom,EmptyCavePath,GoboRoom
+FindClothesChestRoom,EmptyCavePath,,FindDaggerRoom
+,GoblinRoom,,
+,LeaveCaveRoom,,
